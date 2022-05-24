@@ -3,6 +3,7 @@
 .vscode/
 bin*/
 logs/
+tools/*_pycache_*
 
 # Files
 *.user

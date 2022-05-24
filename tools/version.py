@@ -1,4 +1,3 @@
-MAJOR = 0
-MINOR = 0
+import globals
 
-print("Lazzer Engine Tools - v{}.{}".format(MAJOR, MINOR))
+print("Lazzer Engine Tools - v{}.{}".format(globals.V_MAJOR, globals.V_MINOR))
